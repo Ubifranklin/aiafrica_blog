@@ -1,7 +1,0 @@
-[submodule "apps/web"]
-    path = apps/web
-    url = https://github.com/kingshhub/blogger/blob/main/apps/web.git
-
-[submodule "api"]
-    path = api
-    url = https://github.com/kingshhub/blogger/blob/main/apps/api.git
